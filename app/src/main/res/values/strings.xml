@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">signinModule</string>
+
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="OTPVerification">OTP Verification"</string>
+    <string name="submit" translatable="false">SUBMIT</string>
+    <string name="messageOTP">Please enter your OTP that sent to your phone number</string>
+    <string name="message2">Don\'t receive the OTP?</string>
+
+
+    <!--Facebook Auth Text-->
+
+    <string name="facebook_app_id">1330747144892671</string>
+    <string name="fb_login_protocol_scheme">fb1330747144892671</string>
+    <string name="facebook_client_token">532f02aebe328a38e47fa5a583ea4876</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or">Or</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_out">Log Out</string>
+
+
+</resources>
